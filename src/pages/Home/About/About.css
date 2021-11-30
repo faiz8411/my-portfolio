@@ -1,0 +1,20 @@
+.image-about{
+    border-radius: 10px;
+}
+.about{
+    
+    border-top: 1px solid gold;
+    border-width: 50%;
+}
+.paragraph{
+text-align: left;
+ align-items: center;
+ color: grey;
+}
+.resume-button{
+    color: ivory;
+    padding: 5px 20px;
+    background-color: rgb(109, 16, 62);
+    border: none;
+    border-radius: 5px;
+}
