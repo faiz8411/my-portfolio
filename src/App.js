@@ -10,6 +10,7 @@ import {
 } from "react-router-dom";
 import Details from './pages/Home/Details/Details';
 import Blog from './pages/Home/Home/Blog/Blog';
+import NotFound from './pages/NotFound/NotFound';
 
 function App() {
   return (
@@ -26,6 +27,9 @@ function App() {
 
           </Route>
           <Route path="/blog" element={<Blog />}>
+
+          </Route>
+          <Route path="*" element={<NotFound />}>
 
           </Route>
         </Routes>

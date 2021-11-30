@@ -6,13 +6,9 @@ const Services = () => {
         <div className="projects-cont" id="service">
 
             <div className="heading">
-                <h1 className="text-white">My Awesome Service</h1>
-                <p className="heading p__color">
-                    There are many variations of passages of Lorem Ipsum available,
-                </p>
-                <p className="heading p__color">
-                    but the majority have suffered alteration.
-                </p>
+                <h1 className="text-white">My Awesome Skills</h1>
+
+
             </div>
 
             <div className="container">
@@ -36,14 +32,10 @@ const Services = () => {
                                 </svg>
                             </div>
                             <div className="service__meta">
-                                <h1 className="service__text">Business Stratagy</h1>
-                                <p className="p service__text p__color">
-                                    I throw myself down among the
-                                </p>
-                                <p className="p service__text p__color">
-                                    tall grass by the stream as I lie
-                                </p>
-                                <p className="p service__text p__color">close to the earth.</p>
+                                <h1 className="service__text">react developing</h1>
+
+
+
                             </div>
                         </div>
                     </div>
@@ -72,10 +64,8 @@ const Services = () => {
                                 <p className="p service__text p__color">
                                     I throw myself down among the
                                 </p>
-                                <p className="p service__text p__color">
-                                    tall grass by the stream as I lie
-                                </p>
-                                <p className="p service__text p__color">close to the earth.</p>
+
+
                             </div>
                         </div>
                     </div>
@@ -101,14 +91,8 @@ const Services = () => {
                                 </svg>
                             </div>
                             <div className="service__meta">
-                                <h1 className="service__text">Marketing & Reporting</h1>
-                                <p className="p service__text p__color">
-                                    I throw myself down among the
-                                </p>
-                                <p className="p service__text p__color">
-                                    tall grass by the stream as I lie
-                                </p>
-                                <p className="p service__text p__color">close to the earth.</p>
+                                <h1 className="service__text">javascript</h1>
+
                             </div>
                         </div>
                     </div>
@@ -133,14 +117,8 @@ const Services = () => {
                                 </svg>
                             </div>
                             <div className="service__meta">
-                                <h1 className="service__text">Mobile App Development</h1>
-                                <p className="p service__text p__color">
-                                    I throw myself down among the
-                                </p>
-                                <p className="p service__text p__color">
-                                    tall grass by the stream as I lie
-                                </p>
-                                <p className="p service__text p__color">close to the earth.</p>
+                                <h1 className="service__text">UI/UX design</h1>
+
                             </div>
                         </div>
                     </div>

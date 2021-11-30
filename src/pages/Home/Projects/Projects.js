@@ -14,7 +14,7 @@ import Project from '../Home/Project/Project';
 const Projects = () => {
     const [service, setService] = useState([])
     useEffect(() => {
-        fetch('https://raw.githubusercontent.com/faiz8411/hot-oninon-site/main/projects.json')
+        fetch('https://raw.githubusercontent.com/faiz8411/my-portfolio/main/projects.json')
             .then(res => res.json())
             .then(data => setService(data))
     }, [])
