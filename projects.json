@@ -25,7 +25,10 @@
         "description07": "also having logistics support with phn call",
         "image": "https://i.ibb.co/sCcHvv1/curriar.png",
         "imageD": "https://i.ibb.co/DwFT1wg/screenbud-ff29c192-fc26-4dbe-854d-d9eb144e6e65.png",
-        "imageC": "https://i.ibb.co/BPgW3D9/screenbud-5fa5ef68-082b-4e97-9216-5920fa0e79ea.png"
+        "imageC": "https://i.ibb.co/BPgW3D9/screenbud-5fa5ef68-082b-4e97-9216-5920fa0e79ea.png",
+        "live": "https://currier-service-website.web.app/",
+        "clients": "https://i.ibb.co/6yGv938/cycle-last.png",
+        "server": ""
     },
     {
         "id": 3,
@@ -39,7 +42,10 @@
         "description07": "we have Trekking Bikes",
         "image": "https://i.ibb.co/dLX2K2L/cycle.png",
         "imageD": "https://i.ibb.co/7Gh6kr2/Capture.png",
-        "imageC": "https://i.ibb.co/6yGv938/cycle-last.png"
+        "imageC": "https://i.ibb.co/6yGv938/cycle-last.png",
+        "live": "https://i.ibb.co/6yGv938/cycle-last.png",
+        "clients": "https://i.ibb.co/6yGv938/cycle-last.png",
+        "server": ""
     },
     {
         "id": 4,
@@ -53,6 +59,9 @@
         "description07": "you most welcome ",
         "image": "https://i.ibb.co/59nWkM6/ranga.png",
         "imageD": "https://i.ibb.co/5cS6P64/screenbud-9532bc66-d76c-4d6b-ab2f-27ddb570b864.png",
-        "imageC": "https://i.ibb.co/Fn9DXTV/screenbud-d18e884b-f53d-45d5-9009-8c946637abdd.png"
+        "imageC": "https://i.ibb.co/Fn9DXTV/screenbud-d18e884b-f53d-45d5-9009-8c946637abdd.png",
+        "live": "https://i.ibb.co/6yGv938/cycle-last.png",
+        "clients": "https://i.ibb.co/6yGv938/cycle-last.png",
+        "server": ""
     }
 ]
