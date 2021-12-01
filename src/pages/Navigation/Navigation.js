@@ -1,12 +1,13 @@
 import React from 'react';
 import { Container, Nav, Navbar, NavDropdown } from 'react-bootstrap';
 import logo from '../../images/logo/logo.png'
+import './Navigation.css'
 const Navigation = () => {
     return (
-        <div>
-            <Navbar className="bg-black" bg="dark" expand="lg">
+        <div className="header">
+            <Navbar bg="dark" expand="lg">
                 <Container>
-                    <Navbar.Brand href="#home" className="text-warning"><img src={logo} alt="" /></Navbar.Brand>
+                    <Navbar.Brand href="#home" className=""><img src={logo} alt="" /></Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="mx-auto">

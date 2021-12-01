@@ -35,13 +35,13 @@ const Contact = () => {
                 <Col xs={12} md={6}>
                     <form ref={form} onSubmit={sendEmail}>
 
-                        <input className="contact" type="text" name="name" />
+                        <input className="contact" type="text" name="name" placeholder="name" />
 
-                        <input className="contact" type="email" name="email" />
+                        <input className="contact" type="email" name="email" placeholder="email" />
 
-                        <input className="contact" type="text" name="subject" />
+                        <input className="contact" type="text" name="subject" placeholder="subject" />
 
-                        <textarea className="contact" name="message" />
+                        <textarea className="contact" name="message" placeholder="write massage" />
                         <input className="button" type="submit" value="Send" />
                     </form>
                 </Col>

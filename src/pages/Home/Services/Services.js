@@ -61,9 +61,7 @@ const Services = () => {
                             </div>
                             <div className="service__meta">
                                 <h1 className="service__text">Website Development</h1>
-                                <p className="p service__text p__color">
-                                    I throw myself down among the
-                                </p>
+
 
 
                             </div>
@@ -144,14 +142,8 @@ const Services = () => {
                                 </svg>
                             </div>
                             <div className="service__meta">
-                                <h1 className="service__text">Marketing & Reporting</h1>
-                                <p className="p service__text p__color">
-                                    I throw myself down among the
-                                </p>
-                                <p className="p service__text p__color">
-                                    tall grass by the stream as I lie
-                                </p>
-                                <p className="p service__text p__color">close to the earth.</p>
+                                <h1 className="service__text">Node</h1>
+
                             </div>
                         </div>
                     </div>
@@ -177,13 +169,7 @@ const Services = () => {
                             </div>
                             <div className="service__meta">
                                 <h1 className="service__text">Mobile App Development</h1>
-                                <p className="p service__text p__color">
-                                    I throw myself down among the
-                                </p>
-                                <p className="p service__text p__color">
-                                    tall grass by the stream as I lie
-                                </p>
-                                <p className="p service__text p__color">close to the earth.</p>
+
                             </div>
                         </div>
                     </div>

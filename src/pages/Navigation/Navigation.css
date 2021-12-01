@@ -1,0 +1,17 @@
+
+
+
+@media only  screen and  (max-width:991px){
+    .header{
+        padding: 10px 20px;
+        flex-direction: column;
+
+    }
+}
+@media only  screen and  (max-width:688px){
+    .header{
+        padding: 10px 20px;
+        flex-direction: column;
+
+    }
+}
